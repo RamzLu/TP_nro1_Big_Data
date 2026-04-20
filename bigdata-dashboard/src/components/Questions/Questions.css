@@ -1,0 +1,17 @@
+.questions-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.questions-grid h3 {
+  margin-top: 0;
+  color: #ad1457;
+  font-size: 1.1rem;
+}
+
+.questions-grid p {
+  line-height: 1.6;
+  font-size: 0.95rem;
+  margin-bottom: 0;
+}

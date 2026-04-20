@@ -1,0 +1,21 @@
+{
+  "name": "tp_nro1_big_data",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000T\u0000P\u0000_\u0000n\u0000r\u0000o\u00001\u0000_\u0000B\u0000i\u0000g\u0000_\u0000D\u0000a\u0000t\u0000a\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamzLu/TP_nro1_Big_Data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RamzLu/TP_nro1_Big_Data/issues"
+  },
+  "homepage": "https://github.com/RamzLu/TP_nro1_Big_Data#readme"
+}
